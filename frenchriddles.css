@@ -1,0 +1,39 @@
+.FI{
+    text-align: center;
+}
+body {
+    background-color: palegoldenrod;
+    border-radius: 100px;
+}
+
+.AE{
+    text-align: center;
+}
+body {
+    background-color: lightgrey;
+    border-radius: 100px;
+}
+
+.FE{
+    text-align: center;
+}
+body {
+    background-color:darkseagreen;
+    border-radius: 100px;
+}
+
+.RE{
+    text-align: center;
+}
+body {
+    background-color:rgb(196, 196, 238);
+    border-radius: 100px; 
+}
+
+.CE{
+    text-align: center;
+}
+body {
+    background-color: rgb(223, 161, 161);
+    border-radius: 100px; 
+}

@@ -1,0 +1,15 @@
+.FR{
+    text-align: center;
+}
+.contain{
+    background-color: lightcoral;
+    border-radius: 10px;
+    width: 550px;
+    height: 370px;
+}
+body {
+    background-color: lightskyblue;
+    border-radius: 100px;
+}
+  
+  

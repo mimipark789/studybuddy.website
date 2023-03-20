@@ -1,0 +1,36 @@
+.CRT{
+    text-align: center;
+}
+body {
+    background-color: rgb(235, 131, 166);
+    border-radius: 100px;
+}
+
+
+.contain{
+    background-color: plum;
+    border-radius: 10px;
+    width: 500px;
+    height: 350px;
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+.SB{
+    align-items: center;
+    float: left;
+}
+
+
+    .pic {
+        position: relative;
+    }
+    .pic img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+
+    .logo{
+        float: right;
+    } 

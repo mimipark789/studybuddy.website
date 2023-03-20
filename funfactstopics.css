@@ -1,0 +1,31 @@
+.AF{
+    text-align: center;
+}
+body {
+    background-color: rgb(214, 187, 187);
+    border-radius: 100px;
+}
+
+.FU{
+    text-align: center;
+}
+body {
+    background-color: rgb(203, 164, 240);
+    border-radius: 100px;
+}
+
+.RF{
+    text-align: center;
+}
+body {
+    background-color:khaki;
+    border-radius: 100px;
+}
+
+.CF{
+    text-align: center;
+}
+body {
+    background-color:rgb(160, 224, 189);
+    border-radius: 100px;
+}
